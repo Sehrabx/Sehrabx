@@ -126,7 +126,6 @@ A real-time sign language recognition system that translates hand gestures into 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-EF4444?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sehrab-showkat-shah-626727327)
-[![Email](https://img.shields.io/badge/Email-EF4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sehrabas84@gmail.com)
 
 </div>
 
