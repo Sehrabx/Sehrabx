@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7dd3fc&amp;height=200&amp;section=header&amp;text=Sehrab%20Showkat%20Shah&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=AI%2FML%20Engineer%20%7C%20Generative%20%26%20Agentic%20AI&amp;descAlignY=57&amp;descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7dd3fc&amp;height=200&amp;section=header&amp;text=Sehrab%20Showkat%20Shah&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=AI%2FML%20Engineer%20%7C%20Generative%20AI%20%7C%20Agentic%20AI&amp;descAlignY=57&amp;descSize=18" alt="Sehrab Showkat Shah" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;color=7DD3FC&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=AI%2FML+Engineer;Generative+AI+%26+Agentic+AI;Deep+Learning+%26+Computer+Vision;Building+RAG+%26+Intelligent+AI+Systems;Data+Science+%26+Machine+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;Generative+AI+%7C+Agentic+AI;Deep+Learning+%7C+Computer+Vision;RAG+%7C+LLM+Applications;Data+Science+%7C+Machine+Learning" alt="Typing animation" />
 
 <br/>
 
@@ -52,11 +52,9 @@ const sehrab = {
 
 ## 🚀 Featured Projects
 
-> These are projects I have built/worked on. GitHub repository cards and Code links can be added when the repositories are published.
-
 ### 🤖 Agentic AI Data Scientist
 
-An agentic AI system that automates major stages of the data-science workflow from natural-language instructions and uploaded datasets. Specialized agents combine LLM reasoning with deterministic Python and ML tools for dataset understanding, cleaning, EDA, SQL querying, visualization, feature engineering, model selection, training, evaluation, and report generation.
+An agentic AI system that automates major stages of a data-science workflow from natural-language instructions and uploaded datasets. Specialized AI agents and deterministic tools handle dataset understanding, cleaning, EDA, SQL querying, visualization, feature engineering, model selection, training, evaluation, and automated reporting.
 
 | Layer | Technology |
 |---|---|
@@ -69,7 +67,7 @@ An agentic AI system that automates major stages of the data-science workflow fr
 
 ### 🛡️ Hybrid AI-Based Ransomware Detection System
 
-A hybrid ransomware detection system combining static machine-learning analysis with dynamic deep-learning behavioral analysis. Static PE features are evaluated by a soft-voting ensemble, while uncertain predictions are escalated to a BiLSTM module for sandboxed API-call sequence analysis.
+A hybrid ransomware detection system combining static machine-learning analysis with dynamic deep-learning behavioral analysis. A soft-voting ensemble evaluates static PE features, while uncertain predictions are escalated to a BiLSTM module trained on sandboxed API-call sequences.
 
 | Layer | Technology |
 |---|---|
@@ -82,7 +80,7 @@ A hybrid ransomware detection system combining static machine-learning analysis 
 
 ### 📚 Production-Grade RAG AI Research Assistant
 
-A production-oriented Retrieval-Augmented Generation research assistant for document-grounded, context-aware answers. It supports document processing, semantic embeddings, vector and hybrid search, reranking, contextual retrieval, conversational context, source citations, and RAG evaluation.
+A production-oriented RAG research assistant for document-grounded, context-aware answers. It supports document processing, semantic embeddings, vector and hybrid search, reranking, contextual retrieval, conversational context, source citations, and RAG evaluation.
 
 | Layer | Technology |
 |---|---|
@@ -108,9 +106,9 @@ A real-time sign-language recognition system that translates hand gestures into 
 ## 🧰 Tech Stack
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
-### AI / ML & Data
+### AI / ML / Data
 [![AI ML](https://skillicons.dev/icons?i=tensorflow,sklearn)](https://skillicons.dev)
 
 `Pandas` • `NumPy` • `LangGraph` • `LLMs` • `RAG` • `AI Agents` • `LightGBM` • `XGBoost` • `BiLSTM` • `MediaPipe`
@@ -123,32 +121,25 @@ A real-time sign-language recognition system that translates hand gestures into 
 ### Dev Tools
 [![Dev Tools](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sehrabx&amp;show_icons=true&amp;theme=nord&amp;hide_border=true&amp;title_color=7dd3fc&amp;icon_color=7dd3fc&amp;text_color=7dd3fc&amp;bg_color=00000000" alt="Sehrab's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sehrabx&amp;layout=compact&amp;theme=nord&amp;hide_border=true&amp;title_color=7dd3fc&amp;text_color=7dd3fc&amp;bg_color=00000000" alt="Top languages" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=Sehrabx&amp;theme=nord&amp;hide_border=true&amp;ring=7dd3fc&amp;fire=7dd3fc&amp;currStreakLabel=7dd3fc" alt="GitHub streak" />
 
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sehrabx&amp;bg_color=00000000&amp;color=7dd3fc&amp;line=7dd3fc&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="GitHub contribution activity graph" />
+
 </div>
+
+> **GitHub Stats:** Stats and language cards are intentionally omitted in V2 because the public stats endpoints were not rendering reliably on your profile.
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Sehrabx&amp;theme=nord&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=7" alt="GitHub trophies" />
-
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sehrabx&amp;bg_color=00000000&amp;color=7dd3fc&amp;line=7dd3fc&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="Contribution graph" />
 
 </div>
 
@@ -165,10 +156,12 @@ A real-time sign-language recognition system that translates hand gestures into 
 
 </div>
 
+<br/>
+
 <div align="center">
 
 ### Building intelligent systems that turn AI research into practical solutions.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7dd3fc&amp;height=120&amp;section=footer&amp;animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7dd3fc&amp;height=120&amp;section=footer&amp;animation=twinkling" alt="Footer banner" />
