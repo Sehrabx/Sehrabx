@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=EF4444&height=220&section=header&text=Sehrab%20Showkat%20Shah&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Undergraduate%20%7C%20AI%2FML%20%26%20Computer%20Vision&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=EF4444&amp;height=220&amp;section=header&amp;text=Sehrab%20Showkat%20Shah&amp;fontSize=45&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Computer%20Science%20Undergraduate%20%7C%20AI%2FML%20%26%20Computer%20Vision&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Building+AI-driven+applications+%26+intelligent+systems;Python+%7C+TensorFlow+%7C+PyTorch+%7C+Scikit-learn;Turning+data+into+real-world+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=EF4444&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Building+AI-driven+applications+%26+intelligent+systems;Python+%7C+TensorFlow+%7C+PyTorch+%7C+Scikit-learn;Turning+data+into+real-world+solutions" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -96,10 +96,10 @@ A real-time sign language recognition system that translates hand gestures into 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sehrabx&show_icons=true&theme=nord&hide_border=true&border_color=EF4444&title_color=EF4444&icon_color=EF4444&text_color=c9c9c9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sehrabx&layout=compact&theme=nord&hide_border=true&border_color=EF4444&title_color=EF4444&text_color=c9c9c9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sehrabx&amp;show_icons=true&amp;theme=nord&amp;hide_border=true&amp;border_color=EF4444&amp;title_color=EF4444&amp;icon_color=EF4444&amp;text_color=c9c9c9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sehrabx&amp;layout=compact&amp;theme=nord&amp;hide_border=true&amp;border_color=EF4444&amp;title_color=EF4444&amp;text_color=c9c9c9" />
 
-<img src="https://streak-stats.demolab.com?user=Sehrabx&theme=nord&hide_border=true&border_radius=6&background=0D1117&ring=EF4444&fire=EF4444&currStreakLabel=EF4444" />
+<img src="https://streak-stats.demolab.com?user=Sehrabx&amp;theme=nord&amp;hide_border=true&amp;border_radius=6&amp;background=0D1117&amp;ring=EF4444&amp;fire=EF4444&amp;currStreakLabel=EF4444" />
 
 </div>
 
@@ -107,7 +107,7 @@ A real-time sign language recognition system that translates hand gestures into 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sehrabx&no-frame=true&no-bg=true&theme=nord&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Sehrabx&amp;no-frame=true&amp;no-bg=true&amp;theme=nord&amp;column=7" />
 
 </div>
 
@@ -115,7 +115,7 @@ A real-time sign language recognition system that translates hand gestures into 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sehrabx&theme=react-dark&color=EF4444&line=EF4444&point=ffffff&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sehrabx&amp;theme=react-dark&amp;color=EF4444&amp;line=EF4444&amp;point=ffffff&amp;hide_border=true" />
 
 </div>
 
@@ -130,4 +130,4 @@ A real-time sign language recognition system that translates hand gestures into 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=EF4444&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=EF4444&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
