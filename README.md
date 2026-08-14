@@ -135,13 +135,6 @@ A real-time sign-language recognition system that translates hand gestures into 
 
 > **GitHub Stats:** Stats and language cards are intentionally omitted in V2 because the public stats endpoints were not rendering reliably on your profile.
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sehrabx&amp;theme=nord&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=7" alt="GitHub trophies" />
-
-</div>
 
 ## 🤝 Connect
 
