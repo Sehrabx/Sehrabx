@@ -1,131 +1,148 @@
-<div align="center">
+<h1 align="center">Hi, I'm Sehrab 👋</h1>
+<h3 align="center">Computer Science Undergraduate · AI/ML · Computer Vision</h3>
 
-![](https://capsule-render.vercel.app/api?type=waving&color=EF4444&height=220&section=header&text=Sehrab%20Showkat%20Shah&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Undergraduate%20%7C%20AI%2FML%20%26%20Computer%20Vision&descAlignY=55&descSize=18)
+<p align="center">
+  ![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&width=600&lines=Building+AI-driven+applications;Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+Data+Science)
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Building+AI-driven+applications+%26+intelligent+systems;Python+%7C+TensorFlow+%7C+PyTorch+%7C+Scikit-learn;Turning+data+into+real-world+solutions)](https://git.io/typing-svg)
+<p align="center">
+  ![views](https://komarev.com/ghpvc/?username=Sehrabx&color=EF4444&style=flat-square&label=Profile+Views)
+  ![followers](https://img.shields.io/github/followers/Sehrabx?label=Followers&style=flat-square&color=EF4444)
+</p>
 
-<br/>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sehrabx&color=EF4444&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/Sehrabx?label=Followers&style=flat-square&color=EF4444)
+## 🧭 About Me
 
-</div>
+```
+> whoami
+Sehrab Showkat Shah — B.Tech CSE, University of Kashmir (2022–2026)
 
----
+> current_focus
+Artificial Intelligence · Machine Learning · Deep Learning · Computer Vision
 
-### 🧠 Who I Am
-
-```typescript
-const sehrab = {
-  title: "Computer Science Undergraduate — AI/ML & Computer Vision",
-  stack: {
-    programming: ["Python", "C", "SQL", "JavaScript"],
-    aiml: ["Machine Learning", "Deep Learning", "Computer Vision", "Data Analysis"],
-    libraries: ["TensorFlow", "PyTorch", "Scikit-learn", "OpenCV", "MediaPipe", "Pandas", "NumPy", "Matplotlib", "Seaborn"],
-    databases: ["MongoDB", "SQLite", "SQL"],
-    tools: ["Git", "GitHub", "Jupyter Notebook", "Google Colab", "VS Code", "MS Excel"]
-  },
-  launchedProjects: [
-    "Hybrid AI-Based Ransomware Detection System",
-    "Sign Language to Voice System",
-    "Hand Gesture Chess & Gesture Recognition System",
-    "Speech-to-Text Converter"
-  ],
-  certifications: [
-    "Complete Data Science, ML, Deep Learning & NLP Bootcamp — Udemy",
-    "Computer Vision / Intermediate ML / Intro to ML / Python — Kaggle Learn",
-    "Python for Data Science — IBM SkillsBuild",
-    "Introduction to Generative AI — Google Cloud Skills Boost"
-  ],
-  status: "B.Tech in Computer Science Engineering, University of Kashmir (2022–2026)",
-  openTo: ["AI/ML Engineering", "Computer Vision", "Data Science", "Collaborations"]
-};
+> philosophy
+"Solving real-world problems through data-driven, intelligent systems."
 ```
 
----
+<br>
 
-### 🚀 Featured Projects
+## ⚙️ Tech Arsenal
 
-> Repos for these aren't published yet — check back soon, or reach out for the code directly.
-
-#### 🛡️ Hybrid AI-Based Ransomware Detection System
-
-A 5-model hybrid detection pipeline (Extra Trees, Random Forest, XGBoost, LightGBM, MLP) combined via soft-voting ensemble, achieving up to 97.6% accuracy and 0.998 ROC-AUC on a 2,500+ feature static PE dataset. Includes a confidence-based routing layer escalating uncertain predictions to a BiLSTM dynamic-analysis stage (98.2% accuracy, 0.993 ROC-AUC) trained on 130K+ sandboxed API call sequences.
-
-| Layer | Technology |
-|---|---|
-| Language | Python |
-| ML/DL | TensorFlow, Scikit-learn, LightGBM, XGBoost, BiLSTM |
-| Techniques | Ensemble Learning, Feature Engineering, Static + Dynamic Analysis |
-
-#### 🤟 Sign Language to Voice System
-
-A real-time sign language recognition system that translates hand gestures into natural English speech using computer vision and text-to-speech technology — an accessible communication solution for individuals with speech and hearing impairments.
-
-| Layer | Technology |
-|---|---|
-| Language | Python |
-| CV/Tracking | OpenCV, MediaPipe |
-| Speech | Pyttsx3 |
-
----
-
-### 🛠️ Tech Stack
+<table>
+<tr>
+<td valign="top" width="50%">
 
 **Languages**
+```
+Python   ████████████████████  Primary
+SQL      ███████████████░░░░░
+C        ████████████░░░░░░░░
+JavaScript ██████████░░░░░░░░
+```
 
-![](https://skillicons.dev/icons?i=python,c,js&theme=dark)
+</td>
+<td valign="top" width="50%">
 
-**AI / ML / Data**
+**AI / ML Stack**
+```
+TensorFlow    ✓
+PyTorch       ✓
+Scikit-learn  ✓
+OpenCV        ✓
+MediaPipe     ✓
+```
 
-![](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,pandas,numpy&theme=dark)
+</td>
+</tr>
+</table>
 
-**Databases**
+**Data & Tools**
 
-![](https://skillicons.dev/icons?i=mongodb,sqlite&theme=dark)
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `MongoDB` `SQLite` `Git` `GitHub` `Jupyter` `Colab` `VS Code`
 
-**Dev Tools**
+<br>
 
-![](https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark)
+## 🚧 Featured Builds
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 📊 GitHub Stats
+### 🛡️ Ransomware Detection System
+**Hybrid AI Pipeline — 97.6% Accuracy**
 
-<div align="center">
+5-model soft-voting ensemble (Extra Trees, Random Forest, XGBoost, LightGBM, MLP) with a confidence-based routing layer escalating uncertain cases to a BiLSTM dynamic-analysis stage. Trained on a 2,500+ feature static PE dataset and 130K+ sandboxed API sequences.
 
-![](https://github-readme-stats.vercel.app/api?username=Sehrabx&show_icons=true&theme=nord&hide_border=true&border_color=EF4444&title_color=EF4444&icon_color=EF4444&text_color=c9c9c9)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sehrabx&layout=compact&theme=nord&hide_border=true&border_color=EF4444&title_color=EF4444&text_color=c9c9c9)
+`Python` `TensorFlow` `LightGBM` `XGBoost` `BiLSTM`
 
-![](https://streak-stats.demolab.com?user=Sehrabx&theme=nord&hide_border=true&border_radius=6&background=0D1117&ring=EF4444&fire=EF4444&currStreakLabel=EF4444)
+</td>
+<td width="50%" valign="top">
 
-</div>
+### 🤟 Sign Language to Voice
+**Real-Time Gesture → Speech**
 
-### 🏆 Trophies
+Translates hand gestures into natural English speech in real time, using MediaPipe for hand tracking and OpenCV for image processing — built as an accessible communication tool for individuals with speech/hearing impairments.
 
-<div align="center">
+`Python` `OpenCV` `MediaPipe` `Pyttsx3`
 
-![](https://github-profile-trophy.vercel.app/?username=Sehrabx&no-frame=true&no-bg=true&theme=nord&column=7)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-</div>
+### ♟️ Gesture-Controlled Chess
+**Touch-Free Interaction**
 
-### 📈 Contribution Graph
+A playable chess interface plus a general-purpose gesture classifier, using MediaPipe landmark detection for real-time piece selection and multi-gesture classification from webcam input.
 
-<div align="center">
+`Python` `OpenCV` `MediaPipe` `python-chess`
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Sehrabx&theme=react-dark&color=EF4444&line=EF4444&point=ffffff&hide_border=true)
+</td>
+<td width="50%" valign="top">
 
-</div>
+### 🎙️ Speech-to-Text Converter
+**Real-Time Transcription**
 
----
+Captures live microphone audio and converts spoken words into readable text for transcription and documentation, processed in real time.
 
-### 🔗 Connect with Me
+`Python` `Speech Recognition`
 
-<div align="center">
+</td>
+</tr>
+</table>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-EF4444?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sehrab-showkat-shah-626727327)
-[![Email](https://img.shields.io/badge/Email-EF4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sehrabas84@gmail.com)
+<blockquote>Repos for these aren't public yet — reach out if you'd like a walkthrough or the code.</blockquote>
 
-</div>
+<br>
 
-![](https://capsule-render.vercel.app/api?type=waving&color=EF4444&height=120&section=footer&animation=twinkling)
+## 📈 GitHub Stats
+
+<p align="center">
+  ![](https://github-readme-stats.vercel.app/api?username=Sehrabx&show_icons=true&theme=nord&hide_border=true&border_color=EF4444&title_color=EF4444&icon_color=EF4444&text_color=c9c9c9)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sehrabx&layout=compact&theme=nord&hide_border=true&border_color=EF4444&title_color=EF4444&text_color=c9c9c9)
+</p>
+
+<p align="center">
+  ![](https://streak-stats.demolab.com?user=Sehrabx&theme=nord&hide_border=true&border_radius=6&background=0D1117&ring=EF4444&fire=EF4444&currStreakLabel=EF4444)
+</p>
+
+<br>
+
+## 🎓 Certifications
+
+- Complete Data Science, Machine Learning, Deep Learning & NLP Bootcamp — *Udemy*
+- Computer Vision · Intermediate ML · Intro to ML · Python — *Kaggle Learn*
+- Python for Data Science — *IBM SkillsBuild*
+- Introduction to Generative AI — *Google Cloud Skills Boost*
+
+<br>
+
+## 📫 Let's Connect
+
+<p align="center">
+  [![](https://img.shields.io/badge/LinkedIn-EF4444?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sehrab-showkat-shah-626727327)
+  [![](https://img.shields.io/badge/Email-EF4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sehrabas84@gmail.com)
+</p>
+
+<p align="center"><sub>Thanks for stopping by — always open to interesting AI/ML conversations.</sub></p>
