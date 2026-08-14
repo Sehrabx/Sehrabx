@@ -1,13 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Sehrab%20Showkat%20Shah&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Generative%20%26%20Agentic%20AI&descAlignY=57&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7dd3fc&amp;height=200&amp;section=header&amp;text=Sehrab%20Showkat%20Shah&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=AI%2FML%20Engineer%20%7C%20Generative%20%26%20Agentic%20AI&amp;descAlignY=57&amp;descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;Generative+AI+%26+Agentic+AI;Deep+Learning+%26+Computer+Vision;Building+RAG+%26+Intelligent+AI+Systems;Data+Science+%26+Machine+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;color=7DD3FC&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=AI%2FML+Engineer;Generative+AI+%26+Agentic+AI;Deep+Learning+%26+Computer+Vision;Building+RAG+%26+Intelligent+AI+Systems;Data+Science+%26+Machine+Learning" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sehrabx&label=Profile%20Views&color=7dd3fc&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Sehrabx?label=Followers&style=for-the-badge&color=7dd3fc&labelColor=0d1117" alt="GitHub followers" />
+<img src="https://komarev.com/ghpvc/?username=Sehrabx&amp;label=Profile%20Views&amp;color=7dd3fc&amp;style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Sehrabx?label=Followers&amp;style=for-the-badge&amp;color=7dd3fc&amp;labelColor=0d1117" alt="GitHub followers" />
 
 </div>
 
@@ -127,12 +127,12 @@ A real-time sign-language recognition system that translates hand gestures into 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sehrabx&show_icons=true&theme=nord&hide_border=true&title_color=7dd3fc&icon_color=7dd3fc&text_color=7dd3fc&bg_color=00000000" alt="Sehrab's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sehrabx&layout=compact&theme=nord&hide_border=true&title_color=7dd3fc&text_color=7dd3fc&bg_color=00000000" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sehrabx&amp;show_icons=true&amp;theme=nord&amp;hide_border=true&amp;title_color=7dd3fc&amp;icon_color=7dd3fc&amp;text_color=7dd3fc&amp;bg_color=00000000" alt="Sehrab's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sehrabx&amp;layout=compact&amp;theme=nord&amp;hide_border=true&amp;title_color=7dd3fc&amp;text_color=7dd3fc&amp;bg_color=00000000" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Sehrabx&theme=nord&hide_border=true&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=Sehrabx&amp;theme=nord&amp;hide_border=true&amp;ring=7dd3fc&amp;fire=7dd3fc&amp;currStreakLabel=7dd3fc" alt="GitHub streak" />
 
 </div>
 
@@ -140,7 +140,7 @@ A real-time sign-language recognition system that translates hand gestures into 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sehrabx&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Sehrabx&amp;theme=nord&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=7" alt="GitHub trophies" />
 
 </div>
 
@@ -148,7 +148,7 @@ A real-time sign-language recognition system that translates hand gestures into 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sehrabx&bg_color=00000000&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sehrabx&amp;bg_color=00000000&amp;color=7dd3fc&amp;line=7dd3fc&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="Contribution graph" />
 
 </div>
 
@@ -157,10 +157,10 @@ A real-time sign-language recognition system that translates hand gestures into 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sehrab-showkat-shah-626727327/">
-  <img src="https://img.shields.io/badge/LinkedIn-Sehrab%20Showkat%20Shah-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Sehrab%20Showkat%20Shah-7dd3fc?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://www.instagram.com/udayshahx/">
-  <img src="https://img.shields.io/badge/Instagram-@udayshahx-7dd3fc?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-@udayshahx-7dd3fc?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" />
 </a>
 
 </div>
@@ -171,4 +171,4 @@ A real-time sign-language recognition system that translates hand gestures into 
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7dd3fc&amp;height=120&amp;section=footer&amp;animation=twinkling" />
