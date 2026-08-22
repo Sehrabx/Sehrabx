@@ -112,8 +112,7 @@ const sehrab = {
     "Career Essentials in Generative AI — Microsoft & LinkedIn",
     "Complete Data Science, Machine Learning, Deep Learning & NLP Bootcamp — Udemy"
   ],
-  status: "Building reliable, practical AI systems for real-world problems",
-  ]
+  status: "Building reliable, practical AI systems for real-world problems"
 };
 ```
 
