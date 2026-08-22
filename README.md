@@ -2,12 +2,24 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001B5E,100:003B9A&height=200&section=header&text=Sehrab%20Showkat%20Shah&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Generative%20AI%20%7C%20Agentic%20AI&descAlignY=57&descSize=18" alt="Sehrab Showkat Shah" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;Generative+AI+%7C+Agentic+AI;Deep+Learning+%7C+Computer+Vision;RAG+%7C+LLM+Applications;Data+Science+%7C+Machine+Learning" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=0066CC&center=true&vCenter=true&width=800&lines=Think.%20Code.%20Build.;Build.%20Break.%20Improve.;Code%20With%20Purpose.;Create.%20Learn.%20Repeat.;Always%20Learning.%20Always%20Building.&cursor=false" alt="Typing animation" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sehrabx&amp;label=Profile%20Views&amp;color=7dd3fc&amp;style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Sehrabx?label=Followers&amp;style=for-the-badge&amp;color=7dd3fc&amp;labelColor=0d1117" alt="GitHub followers" />
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Sehrabx&label=Profile%20Views&color=E63946&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Sehrabx?label=Followers&style=for-the-badge&color=E63946&labelColor=0d1117" alt="GitHub followers" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/sehrab-showkat-shah-626727327/">
+<img src="https://img.shields.io/badge/LinkedIn-Sehrab%20Showkat%20Shah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://www.instagram.com/udayshahx/">
+<img src="https://img.shields.io/badge/Instagram-@udayshahx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 
 </div>
 
@@ -121,33 +133,16 @@ A real-time sign-language recognition system that translates hand gestures into 
 ### Dev Tools
 [![Dev Tools](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
-## 📊 GitHub Activity
+## 🐍 GitHub Contribution Snake
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Sehrabx&amp;theme=nord&amp;hide_border=true&amp;ring=7dd3fc&amp;fire=7dd3fc&amp;currStreakLabel=7dd3fc" alt="GitHub streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sehrabx&amp;bg_color=00000000&amp;color=7dd3fc&amp;line=7dd3fc&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="GitHub contribution activity graph" />
+<img src="https://raw.githubusercontent.com/Sehrabx/Sehrabx/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 
 </div>
 
-> **GitHub Stats:** Stats and language cards are intentionally omitted in V2 because the public stats endpoints were not rendering reliably on your profile.
 
 
-## 🤝 Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/sehrab-showkat-shah-626727327/">
-  <img src="https://img.shields.io/badge/LinkedIn-Sehrab%20Showkat%20Shah-7dd3fc?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://www.instagram.com/udayshahx/">
-  <img src="https://img.shields.io/badge/Instagram-@udayshahx-7dd3fc?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" />
-</a>
-
-</div>
 
 <br/>
 
@@ -157,4 +152,4 @@ A real-time sign-language recognition system that translates hand gestures into 
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7dd3fc&amp;height=120&amp;section=footer&amp;animation=twinkling" alt="Footer banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=001B5E&height=120&section=footer&animation=twinkling" alt="Footer banner" />
