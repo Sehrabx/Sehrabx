@@ -34,7 +34,6 @@
 </picture>
 
 </div>
-
   
 ## 👨‍💻 Who I Am
 
