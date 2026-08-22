@@ -23,7 +23,6 @@
 
 </div>
 
-<div align="center">
   
 ## 👨‍💻 Who I Am
 
@@ -63,7 +62,6 @@ const sehrab = {
   ]
 };
 ```
-</div>
 
 ## 🚀 Featured Projects
 
