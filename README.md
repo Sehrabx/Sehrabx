@@ -63,13 +63,6 @@ const sehrab = {
     "Complete Data Science, Machine Learning, Deep Learning & NLP Bootcamp — Udemy"
   ],
   status: "Building reliable, practical AI systems for real-world problems",
-  openTo: [
-    "AI/ML Engineering",
-    "Generative AI",
-    "Agentic AI",
-    "Deep Learning",
-    "Computer Vision",
-    "Data Science"
   ]
 };
 ```
