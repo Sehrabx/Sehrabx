@@ -34,7 +34,57 @@
 </picture>
 
 </div>
-  
+
+## 🧰 Tech Stack ⚡
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+### 🤖 AI / ML / Deep Learning
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/LightGBM-2E8B57?style=for-the-badge&logo=lightgbm&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=xgboost&logoColor=white" />
+
+### 🧠 Generative AI
+
+<img src="https://img.shields.io/badge/LLMs-7B61FF?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-6A1B9A?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Agents-EF5350?style=for-the-badge&logo=probot&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+
+### 📊 Data Science
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+
+### 👁️ Computer Vision
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+
+### 🗄️ Databases
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+### 🛠️ Developer Tools
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+</div>
+
 ## 👨‍💻 Who I Am
 
 ```ts
@@ -120,29 +170,10 @@ A real-time sign-language recognition system that translates hand gestures into 
 | Recognition | Gesture Interpretation |
 | Speech | Pyttsx3 |
 
-## 🧰 Tech Stack
-
-### Languages
-[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-
-### AI / ML / Data
-[![AI ML](https://skillicons.dev/icons?i=tensorflow,sklearn)](https://skillicons.dev)
-
-`Pandas` • `NumPy` • `LangGraph` • `LLMs` • `RAG` • `AI Agents` • `LightGBM` • `XGBoost` • `BiLSTM` • `MediaPipe`
-
-### Databases / Query
-[![Database](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-
-`SQL`
-
-### Dev Tools
-[![Dev Tools](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
-
-
-
-
 
 <br/>
+
+---
 
 <div align="center">
 
