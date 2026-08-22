@@ -181,4 +181,5 @@ A real-time sign-language recognition system that translates hand gestures into 
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=001B5E&height=120&section=footer&animation=twinkling" alt="Footer banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:240000,100:A50021&height=120&section=footer&animation=twinkling" alt="Footer" />
+
