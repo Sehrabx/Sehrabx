@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7dd3fc&amp;height=200&amp;section=header&amp;text=Sehrab%20Showkat%20Shah&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=AI%2FML%20Engineer%20%7C%20Generative%20AI%20%7C%20Agentic%20AI&amp;descAlignY=57&amp;descSize=18" alt="Sehrab Showkat Shah" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001B5E,100:003B9A&height=200&section=header&text=Sehrab%20Showkat%20Shah&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Generative%20AI%20%7C%20Agentic%20AI&descAlignY=57&descSize=18" alt="Sehrab Showkat Shah" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;Generative+AI+%7C+Agentic+AI;Deep+Learning+%7C+Computer+Vision;RAG+%7C+LLM+Applications;Data+Science+%7C+Machine+Learning" alt="Typing animation" />
 
