@@ -176,7 +176,7 @@ A real-time sign-language recognition system that translates hand gestures into 
 
 <div align="center">
 
-### Building intelligent systems that turn AI research into practical solutions.
+### Building AI-driven systems that turn innovation into real-world solutions.
 
 </div>
 
