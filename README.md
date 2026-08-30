@@ -157,7 +157,7 @@ A production-oriented RAG research assistant for document-grounded, context-awar
 | Ranking | Reranking |
 | Output | Citation-Aware Responses |
 
-### 🤟 Sign Language to Voice System
+### 🗣️ Sign Language to Voice System
 
 A real-time sign-language recognition system that translates hand gestures into natural English speech using computer vision and text-to-speech technologies.
 
