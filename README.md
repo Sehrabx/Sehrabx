@@ -1,4 +1,4 @@
-<<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001B5E,100:003B9A&height=200&section=header&text=Sehrab%20Showkat%20Shah&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Generative%20AI%20%7C%20Agentic%20AI%20-%20Designing%20Systems%20That%20Think%2C%20Plan%20and%20Act&descAlignY=57&descSize=16" alt="Sehrab Showkat Shah" />
 
