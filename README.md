@@ -5,6 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=23&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Think%20%C2%B7%20Code%20%C2%B7%20Build;Build%20%C2%B7%20Break%20%C2%B7%20Improve;Code%20With%20Purpose;Create%20%C2%B7%20Learn%20%C2%B7%20Repeat;Always%20Learning%20%C2%B7%20Always%20Building&cursor=false" alt="Typing animation" />
 
 <br/>
+
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Sehrabx&label=Profile%20Views&color=E63946&style=for-the-badge" alt="Profile views" />
