@@ -23,6 +23,8 @@
 
 </div>
 
+
+<!--
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
@@ -34,6 +36,10 @@
 </picture>
 
 </div>
+-->
+<br>
+<br>
+
 
 ## 🧰 Tech Stack ⚡
 
