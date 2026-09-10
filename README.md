@@ -26,7 +26,7 @@
 <br>
 
 <!-- Matrix Background Animation -->
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
 <!-- Greet Line Comes Here -->
 
