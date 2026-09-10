@@ -11,7 +11,7 @@
 <img src="https://komarev.com/ghpvc/?username=Sehrabx&label=Profile%20Views&color=E63946&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/Sehrabx?label=Followers&style=for-the-badge&color=E63946&labelColor=0d1117" alt="GitHub followers" />
 
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/sehrab-showkat-shah-626727327/">
 <img src="https://img.shields.io/badge/LinkedIn-Sehrab%20Showkat%20Shah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -26,7 +26,7 @@
 <br>
 
 
-
+<!-- Greet Line Comes Here -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
 </p>
@@ -34,21 +34,6 @@
 <!-- Matrix Background Animation -->
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
-<!-- Greet Line Comes Here -->
-
-<!--
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sehrabx/Sehrabx/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sehrabx/Sehrabx/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/Sehrabx/Sehrabx/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%">
-</picture>
-
-</div>
--->
 <br>
 
 ## 🧰 Tech Stack ⚡
@@ -191,6 +176,22 @@ A real-time sign-language recognition system that translates hand gestures into 
 ---
 
 <div align="center">
+
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sehrabx/Sehrabx/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sehrabx/Sehrabx/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/Sehrabx/Sehrabx/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%">
+</picture>
+
+</div>
+
+---
+
+<br>
 
 ### Building AI-driven systems that turn innovation into real-world solutions.
 
